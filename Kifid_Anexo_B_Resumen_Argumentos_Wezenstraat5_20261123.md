@@ -31,7 +31,7 @@ She states expressly that, if properly informed, she would not have accepted the
 
 ## 5. Mitigation costs are recoverable independently (Art. 7:957 BW; Art. 5.1 VBB)
 
-The emergency repair, water extraction, drying and partial kitchen dismantling were legally required to limit damage (Art. 7:957(1) BW) and reported as they happened. Their reasonable cost (EUR 5,445) is recoverable under Art. 7:957(2) BW where the insured could reasonably fear the loss was covered — and her grounds could not have been stronger: the Respondents' own written confirmations of 7 and 9 July 2026. The same measures moreover protected perils admittedly covered *(fire and storm)* and the neighbouring unit, whose property claim is not in dispute.
+The emergency repair, water extraction, drying and partial kitchen dismantling were legally required to limit damage (Art. 7:957(1) BW) and reported as they happened. Their reasonable cost (EUR 5,445) is recoverable under Art. 7:957(2) BW where the insured could reasonably fear the loss was covered — and her grounds could not have been stronger: the Respondents' own written confirmations of 7 and 9 July 2026. The same measures moreover protected perils admittedly covered *(fire and storm)* and the neighbouring unit, whose damage is fully resolved: the neighbour's own insurer paid it, and the difference between the amounts covered under the two policies was paid without objection under the liability policy 5410V043737. No ruling is sought on the neighbour's claim.
 
 ## 6. Premium refund, whatever the outcome on causation
 
@@ -46,6 +46,6 @@ Three months with no guidance despite two written requests through the Responden
 - **Main:** the claim is covered and payable under the policy — **EUR 21,316** (kitchen capped at the EUR 5,000 of V5069; floor and wall repair falls under Art. 3.8, outside that cap), less own risk EUR 250, with statutory interest.
 - **Subsidiary:** breach of the duty of care in the advice, sale, renewal and information — **EUR 25,816** (kitchen at full cost), or the lost chance, if causation is not held certain.
 - **In any event:** refund of the premiums for cover that could not respond during vacancy (request 5), with statutory interest.
-- Plus: production of the 2022 advice records and a legible policy schedule (request 6); identification of the insurer and decision-maker; and confirmation of the handling of the neighbouring unit's liability claim.
+- Plus: production of the 2022 advice records and a legible policy schedule (request 6), and identification of the insurer and decision-maker.
 
 *Draft for review — not legal advice. Legal references marked [verificar] in the V6 draft to be confirmed with counsel; verified consumer-status citation (Kifid 2025-0559) and the Afiliación of Avéro Achmea to be confirmed before filing.*
