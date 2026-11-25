@@ -140,7 +140,20 @@ An intermediary cannot confirm cover in writing through one department and then 
 
 Where the meaning of a policy term is unclear and the insurer drafted it, the interpretation most favourable to the policyholder should prevail (Article 6:238(2) of the Dutch Civil Code, insofar as applicable). I therefore ask Kifid to find that the vacancy limitation cannot be relied on to reject my claim.
 
-## 5. Note on the review
+## 5. Verification status of citations (checked 25 November 2026 against C4.1 and C5.1)
+
+All quotations in section 3 have been verified verbatim against the documents listed in section 2:
+
+- C4.1 (policy schedule), pages 2 and 6: the truncated line ("uitslu"), "Bestemming: Leegstaand Winkelpand", "Type bedrijfspand: Woonpand", the premiums (EUR 729.22 + EUR 50.24) and the full text of clause V5069 — all confirmed as quoted. VERIFIED.
+- C5.1 (VBB 2025-01, footer: 01-01-2025, 7243C-25-01), Art. 1 defines exactly 31 terms (1.1–1.31), none of them "leegstand". VERIFIED.
+- Art. 8.2 (p. 12): quoted with one spelling point — the document reads "bouward" where this section writes "bouwaard" [verify against the PDF's own text layer; OCR ambiguity].
+- Art. 8.3 (p. 12) lists both "geheel of gedeeltelijk buiten gebruik zijn … voor langer dan drie maanden" AND "geheel of gedeeltelijke leegstand" as reportable risk increases, with the stated consequences for failure to report. VERIFIED — and it confirms that vacancy was a *known, accepted* state at inception (8.2; "Bestemming: Leegstaand Winkelpand" on the schedule), not an unreported change.
+- Art. 9 "Voortaxatie" (p. 13) and Art. 11.2.2.3 (p. 15) — valuation rules only, quoted verbatim. VERIFIED.
+- Art. 3.8 (p. 5): water peril, the three exclusions quoted in 3.6, no vacancy limitation. VERIFIED.
+- Art. 3.14 (p. 6): the quoted sentence is the only peril restriction for buildings out of use in the conditions. VERIFIED.
+- The quotation from Van Loon's letter of 11 September 2026 in 3.4 is taken from the Complainant's file (C2.3) and should be double-checked against that letter before filing. VERIFY.
+
+## 6. Note on the review
 
 - The VBB 2025-01 conditions were first reviewed in the publicly available version: https://www.uw-polismap.nl/voorwaarden/VZP_Voorwaarden_Uitgebreide_brandverzekering_voor_bedrijven_VBB_2025-01.pdf
 - They were then checked against the copy Van Loon sent me on 30 June 2026 (C5.1). The text is identical.
