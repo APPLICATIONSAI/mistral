@@ -32,6 +32,7 @@ The intermediary knew from its own e-mail of **9 May 2022** that she bought the 
 - charged premiums throughout for cover that could not respond while the unit was vacant (e.g. glass, EUR 50.24/year);
 - never proposed any alternative — although dedicated vacancy products and wordings without an automatic vacancy exclusion existed in the market (De Vereende DV BLB, OOM Combinatiepolis water module, Zicht VPE 2012, De Goudse 770655; enquiries of 19 November 2026, annexes) — and never recommended the standard preventive measure that would have prevented this exact loss at no cost: **closing the main water supply**;
 - has produced **no client profile, needs analysis or advice report** (request 6), despite asserting that she "understood" the consequences; the contemporaneous record shows the opposite — she asked for explanations (4 August 2022: "Why I should inform about it?… Thanks in advance for your explanation") and received only the rule repeated.
+- In its letter of 11 September 2026 the Respondents themselves give the rationale of the vacancy limitation: leaks at vacant premises are often not noticed in time because there is no regular supervision, so the damage can grow considerably. That is exactly the risk that advice on a preventive measure — closing the main water supply, at no cost — would have addressed, and none was ever given (see (h)(2) below and Annex C, 3.7).
 
 ## 4. Causation: proper advice would have changed the outcome
 

@@ -151,7 +151,7 @@ All quotations in section 3 have been verified verbatim against the documents li
 - Art. 9 "Voortaxatie" (p. 13) and Art. 11.2.2.3 (p. 15) — valuation rules only, quoted verbatim. VERIFIED.
 - Art. 3.8 (p. 5): water peril, the three exclusions quoted in 3.6, no vacancy limitation. VERIFIED.
 - Art. 3.14 (p. 6): the quoted sentence is the only peril restriction for buildings out of use in the conditions. VERIFIED.
-- The quotation from Van Loon's letter of 11 September 2026 in 3.4 is taken from the Complainant's file (C2.3) and should be double-checked against that letter before filing. VERIFY.
+- The quotation from Van Loon's letter of 11 September 2026 in 3.4 (e-mail of 11-09-2026, 15:39, schade@van-loon.nl, W. van Seggelen, Teamleider Schade, attachment kopie-polis-quinche.pdf): VERIFIED VERBATIM. The same letter confirms further facts relied on in this complaint: (i) the Respondents state of themselves that they are affiliated with Kifid "onder nummer 300.016513" (corresponding to the register entry of Centraal Volmachtbedrijf B.V., with which Söderberg & Partners Volmacht B.V. jointly issued the policy schedule — polisblad p. 5); (ii) the handler's determination of vacancy was made "during the telephone notification" of 29 June 2026, on their own account; (iii) their stated rationale for the limitation — "lekkages vaak niet direct worden opgemerkt, omdat er geen regelmatig toezicht aanwezig is" — is precisely the risk that advice on preventive measures (closing the water supply) would have addressed, which was never given (see 3.7 and the duty-of-care ground of the complaint); and (iv) the three-month term for filing with Kifid runs, per that same letter, "na ontvangst van deze reactie" — until 11 December 2026.
 
 ## 6. Note on the review
 
