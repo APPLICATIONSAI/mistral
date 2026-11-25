@@ -15,6 +15,14 @@ She was entitled to rely on these written answers from the party administering h
 
 "Leegstand" is **defined nowhere** in the policy documents: not in the policy schedule, not in Art. 8 (which treats vacancy only as a reportable change of risk), not in Art. 9 (valuation) nor in Art. 11.2.2.3. The policy schedule itself is truncated in her copy ("…uitslu"). Under the **Haviltex** standard (Art. 6:248(1) BW) for the policy schedule, and Art. 6:238(2) BW for the VBB 2025-01 conditions, ambiguity is construed in the consumer's favour. The Respondents' own staff misread the clause in July 2026 — in the exact opposite sense to their current position — which demonstrates that a lay client could not be expected to understand it.
 
+Further article-by-article analysis (Annex C — Policy analysis, attached) establishes, on the Respondents' own policy documents:
+
+- **The insurer knew of the vacancy from the start** (Art. 8.2: the insurer is aware of the use of the property at the commencement) and the policy schedule itself records the destination as "Leegstaand Winkelpand": vacancy was the accepted basis of the contract, not an unreported change of risk (Art. 8.3 cannot be invoked against her);
+- **Art. 3.8 (water) contains no vacancy exclusion**; the only peril the conditions restrict for buildings out of use is vandalism (Art. 3.14) — where the insurer wanted to restrict a peril, it said so expressly (argument a contrario);
+- **Arts. 9 and 11.2.2.3 are valuation rules**, not peril limitations — so Van Loon's answer of 2 July 2026, referring to Arts. 8/9 as the meaning of "leegstand", was factually wrong;
+- **Van Loon's letter of 11 September 2026** ("the conditions clearly state that… water damage is not insured", "duidelijk vermeld") **is contradicted by the text of the conditions themselves**;
+- **The policy schedule is internally inconsistent** ("Type bedrijfspand: Woonpand" vs "Bestemming: Leegstaand Winkelpand"), consistent with a standard product configured without care (see 3).
+
 ## 3. Duty of care: a product that could never respond to the risk she declared
 
 The intermediary knew from its own e-mail of **9 May 2022** that she bought the property "for renting out" and that it was empty. It nevertheless:
